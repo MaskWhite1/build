@@ -1,1 +1,13 @@
 
+title{
+  background-color: "black";
+  color: "white"
+  front-size: 40 px;
+}
+body{
+  background-color: "blue"
+  color: "cyan"
+}
+h1{
+  front-size: 20 px;
+}
