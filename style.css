@@ -1,13 +1,13 @@
 
 body{
-    background-color: rgb(255, 255, 255)
+    background-color: rgb(202, 223, 255)
     color rgb(0, 0, 0);
 }
 h1{
     color: rgb(2, 217, 255);
 }
 section{
-    background: rgb(109, 117, 39);
+    background: rgb(202, 223, 255)
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
