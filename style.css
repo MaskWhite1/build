@@ -1,11 +1,4 @@
 
-title{
-    
-}
-
-
-
-
 body{
     background-color: rgb(202, 223, 255)
     color rgb(0, 0, 0);
@@ -19,5 +12,5 @@ section{
     padding-bottom: 40px;
     display: flex;
     justify-items: left;
-    justify-content: center;
+    justify-content: left;
 }
