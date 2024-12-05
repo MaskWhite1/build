@@ -19,4 +19,6 @@ section{
 }
 head{
     background-color: rgb(202, 223, 255);
+    justify-items: center;
+    justify-content: center;
 }
