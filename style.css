@@ -7,7 +7,7 @@ h1{
     color: rgb(0, 69, 109);
 }
 section{
-    background: rgb(202, 223, 255);
+    background-color: rgb(202, 223, 255);
     padding-top: 80px;
     padding-bottom: 40px;
     display: flex;
@@ -15,5 +15,5 @@ section{
     justify-content: left;
 }
 head{
-    background: rgb(202, 223, 255);
+    background-color: rgb(202, 223, 255);
 }
