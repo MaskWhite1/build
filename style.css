@@ -22,3 +22,6 @@ head{
     justify-items: center;
     justify-content: center;
 }
+html{
+    background-color: rgb(202, 223, 255);
+}
